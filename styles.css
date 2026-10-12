@@ -435,3 +435,37 @@ h1, h2, h3, h4, p { overflow-wrap: break-word; }
   .vedic-site .book-step { padding-top: 22px; }
   .vedic-site .book-mission { font-size: 15px; }
 }
+
+/* ---------- SEO heading kicker, preparation checklist, readability, mobile quick bar ---------- */
+.vedic-site .hero h1 .h1-kicker { display: flex; align-items: center; gap: 11px; font-family: Arial, Helvetica, sans-serif; font-size: 10px; line-height: 1.6; letter-spacing: .13em; text-transform: uppercase; font-weight: 600; color: #e2c78f; margin-bottom: 26px; }
+.vedic-site .book-prep { border: 1px solid #cbb279; background: #fffdf8; padding: 22px 26px; margin-bottom: 40px; }
+.vedic-site .book-prep-title { font-family: Georgia, 'Times New Roman', serif; font-size: 21px; margin-bottom: 10px !important; }
+.vedic-site .book-prep ul { padding-left: 20px; margin: 0 0 12px; color: #3f4f62; font-size: 15px; line-height: 1.8; }
+.vedic-site .book-prep-note { font-size: 14px; line-height: 1.8; color: #536173; }
+.vedic-site .book-prep-note a, .vedic-site .footer-bottom a { color: #8b6529; border-bottom: 1px solid #c7b78f; }
+/* Larger, easier reading for all ages */
+.vedic-site .service-row p, .vedic-site .approach-principles p, .vedic-site .book-step > p, .vedic-site .faq-list details p, .vedic-site .contact-intro > p:not(.eyebrow), .vedic-site .wellbeing-offers li, .vedic-site .wellbeing-limits p, .vedic-site .helpline-text { font-size: 16px; }
+.vedic-site .faq-list summary { font-size: 16px; }
+.vedic-site .contact-facts { font-size: 14px; }
+.vedic-site .contact-facts > div { grid-template-columns: 100px 1fr; }
+.vedic-site .footer-bottom { font-size: 11px; }
+.vedic-site .mobile-cta { display: none; }
+@media (max-width: 580px) {
+  .vedic-site .hero h1 .h1-kicker { font-size: 9px; letter-spacing: .08em; margin-bottom: 20px; }
+  .vedic-site .service-row p, .vedic-site .approach-principles p, .vedic-site .book-step > p, .vedic-site .faq-list details p, .vedic-site .contact-intro > p:not(.eyebrow), .vedic-site .wellbeing-offers li, .vedic-site .wellbeing-limits p, .vedic-site .helpline-text { font-size: 15.5px; }
+  .vedic-site .faq-list summary { font-size: 15px; }
+  .vedic-site .book-prep { padding: 18px; }
+  .vedic-site .mobile-cta { display: flex; position: fixed; left: 0; right: 0; bottom: 0; z-index: 40; background: #081d35; border-top: 2px solid var(--gold); padding: 8px 10px calc(8px + env(safe-area-inset-bottom)); gap: 8px; }
+  .vedic-site .mobile-cta a { flex: 1; text-align: center; padding: 12px 8px; font-size: 14px; font-weight: 600; }
+  .vedic-site .mobile-cta a:first-child { background: #e2c78f; color: #081d35; }
+  .vedic-site .mobile-cta a:last-child { border: 1px solid #d3b16b9c; color: #f4ddb0; flex: 0 0 34%; }
+  .vedic-site .site-footer { padding-bottom: 90px; }
+  .vedic-site .footer-bottom { flex-direction: column; gap: 8px; }
+}
+
+/* ---------- Simple pages (privacy, 404) ---------- */
+.vedic-site .simple-page { padding-top: 60px; padding-bottom: 60px; max-width: 860px; }
+.vedic-site .simple-page .simple-title { font-size: clamp(34px, 5vw, 48px); line-height: 1.15; letter-spacing: -.03em; margin-bottom: 18px; color: var(--ink); }
+.vedic-site .simple-page h2 { font-size: 26px; margin-top: 34px; margin-bottom: 8px; }
+.vedic-site .simple-page p { font-size: 16px; line-height: 1.85; color: #3f4f62; margin-top: 8px; }
+.vedic-site .simple-page a { color: #8b6529; border-bottom: 1px solid #c7b78f; }
