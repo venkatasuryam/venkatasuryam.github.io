@@ -486,3 +486,4 @@ h1, h2, h3, h4, p { overflow-wrap: break-word; }
   .vedic-site .invocation-name { font-size: 31px !important; }
   .vedic-site .invocation-line { font-size: 15.5px; }
 }
+.vedic-site .wellbeing-inner--single { grid-template-columns: minmax(0, 820px); }
