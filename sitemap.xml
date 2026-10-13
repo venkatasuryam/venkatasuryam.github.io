@@ -1,5 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://venkatasuryam.github.io/</loc><lastmod>2026-10-12</lastmod></url>
-  <url><loc>https://venkatasuryam.github.io/privacy.html</loc><lastmod>2026-10-12</lastmod></url>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url><loc>https://venkatasuryam.github.io/</loc><lastmod>2026-10-13</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://venkatasuryam.github.io/"/>
+    <xhtml:link rel="alternate" hreflang="te" href="https://venkatasuryam.github.io/te/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://venkatasuryam.github.io/"/></url>
+  <url><loc>https://venkatasuryam.github.io/te/</loc><lastmod>2026-10-13</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://venkatasuryam.github.io/"/>
+    <xhtml:link rel="alternate" hreflang="te" href="https://venkatasuryam.github.io/te/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://venkatasuryam.github.io/"/></url>
+  <url><loc>https://venkatasuryam.github.io/privacy.html</loc><lastmod>2026-10-13</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://venkatasuryam.github.io/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="te" href="https://venkatasuryam.github.io/te/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://venkatasuryam.github.io/privacy.html"/></url>
+  <url><loc>https://venkatasuryam.github.io/te/privacy.html</loc><lastmod>2026-10-13</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://venkatasuryam.github.io/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="te" href="https://venkatasuryam.github.io/te/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://venkatasuryam.github.io/privacy.html"/></url>
 </urlset>

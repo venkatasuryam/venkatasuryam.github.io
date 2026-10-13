@@ -27,6 +27,14 @@ Tip: special characters like `&` must be written as `&amp;` in index.html.
 | Email | `venkatasuryam1965@gmail.com` |
 | Frequently asked questions | `<details>` |
 
+## Telugu version
+
+The site has a full Telugu copy: `te/index.html` (home) and `te/privacy.html`, at https://venkatasuryam.github.io/te/. The English / తెలుగు buttons at the very top of every page switch between them.
+
+- When you change words on the English page, make the same change in `te/index.html` so both stay the same.
+- Prices, UPI ID, phone number and hours appear in both files — change them in both.
+- The Google Form and booking calendar are in English; the Telugu page tells visitors they may answer in Telugu.
+
 ## Undo a mistake
 
 Open **index.html**, click **History**, open the last good version, and copy its text back in — or ask a helper to revert the commit.
