@@ -20,7 +20,7 @@ Tip: special characters like `&` must be written as `&amp;` in index.html.
 | To change | Search index.html for |
 | --- | --- |
 | Booking hours text | `Monday to Saturday, 10 am` |
-| Consultation fee / UPI ID | `₹500` and `9247395624@ibl` (also update the UPI QR: ask a helper, as the QR image is generated) |
+| Consultation fee / UPI ID | `₹1,116` and `9247395624@ibl` (also update the UPI QR: ask a helper, as the QR image is generated) |
 | Note under contact details | `To book, follow the three steps` |
 | A service | the service title, e.g. `Financial concerns` |
 | Phone number | `919515746132` (appears in the WhatsApp and call links — change every place) |
@@ -47,7 +47,7 @@ Open **index.html**, click **History**, open the last good version, and copy its
 
 ## How bookings work
 
-1. Visitors pay ₹500 by UPI to 9247395624@ibl (button and QR code on the website).
+1. Visitors pay ₹1,116 by UPI to 9247395624@ibl (button and QR code on the website).
 2. They fill the Google Form "Consultation Form (website bookings)" in Google Drive, including the UPI reference (UTR). You get an email for each new form.
 3. The form's thank-you message shows the Google Calendar booking page "First consultation – WhatsApp call" (Mon–Sat, 10–12 and 4–6, 30 minutes, max 4 a day, at least 24 hours ahead). Bookings appear in Google Calendar on your phone.
 4. Before each call, match the UTR in the form/booking with the payment in your UPI app.
