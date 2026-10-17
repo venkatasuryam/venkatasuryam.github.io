@@ -1,4 +1,4 @@
-# Venkata Suryam Chillariga — Vedic Astrology and Muhurtam
+# Venkata Suryam Chillarige — Vedic Astrology and Muhurtam
 
 Website: https://venkatasuryam.github.io/
 
